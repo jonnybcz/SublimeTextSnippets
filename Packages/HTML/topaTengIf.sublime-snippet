@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+<![CDATA[<?teng if ${1:condition} ?>
+<?teng endif ?>]]>
+	</content>
+	<tabTrigger>tif</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

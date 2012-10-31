@@ -1,0 +1,16 @@
+<snippet>
+	<content>
+<![CDATA[
+switch (${10:expression}) {
+   case ${20:label1}:
+
+      break;
+   default:
+
+      break;
+}
+]]> 	
+	</content>
+    	<tabTrigger>s</tabTrigger>
+    	<scope>source.js</scope>
+</snippet>

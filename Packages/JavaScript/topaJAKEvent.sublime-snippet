@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+<![CDATA[
+JAK.Events.addListener(${10:elm}, "${20:click}", ${30:this}, "${40:_capture}");
+]]> 	
+	</content>
+    	<tabTrigger>ev</tabTrigger>
+    	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,21 @@
+<snippet>
+   	<content>
+    	<![CDATA[
+/**
+* author: ${1:topa}
+*/
+${6:MyClass} = JAK.ClassMaker.makeClass({
+	NAME: "${6:MyClass}",
+	VERSION: "1.0"
+});
+
+${6:MyClass}.prototype.\$constructor = function(){
+	${10: }
+};
+
+
+]]>
+	</content>
+    	<tabTrigger>cm</tabTrigger>
+    	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,23 @@
+<snippet>
+	<content>
+<![CDATA[
+===================version 1.0
+f 	...for
+c 	...console.log();
+a 	...alert();
+s 	...switch
+
+JAK
+cm 	...classMaker
+ev 	...Event(elm, type, obj, func, capture)
+ge	 ...gel(id, doc)
+me 	...mel(tagName, properties, styles, doc)
+ce 	...cel(tagName, className, id, doc)
+cd 	...JAK.Events.cancelDef();
+==============================
+]]> 	
+	</content>
+	<tabTrigger>help</tabTrigger>
+	<scope>source.js</scope>
+	<description>help by topa</description>
+</snippet>

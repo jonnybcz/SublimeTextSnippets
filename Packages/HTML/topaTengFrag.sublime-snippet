@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+<![CDATA[<?teng frag ${1:frag} ?>
+<?teng endfrag ?>]]>
+	</content>
+	<tabTrigger>tf</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

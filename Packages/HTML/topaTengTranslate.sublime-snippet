@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[#{${1:translate}}]]></content>
+	<tabTrigger>#</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

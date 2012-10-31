@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[\${ \$${1:condition} ? "podmínkaProšla" : "podmínkaNeprošla" }]]></content>
+	<tabTrigger>tiff</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

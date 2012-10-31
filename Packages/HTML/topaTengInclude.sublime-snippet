@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<?teng include file="${1:file.html}" ?>]]></content>
+	<tabTrigger>ti</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

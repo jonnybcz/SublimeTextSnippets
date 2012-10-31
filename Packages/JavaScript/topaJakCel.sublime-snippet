@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+<![CDATA[
+JAK.cel(${10:tagName});
+]]> 	
+	</content>
+    	<tabTrigger>ce</tabTrigger>
+    	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,17 @@
+<snippet>
+	<content>
+		<![CDATA[
+===================version 1.0
+h 	...html body
+
+tf 	...fragment
+tif 	...if
+tiff 	...ternarni if
+ti  	...include
+#	...#{preklad}
+==============================
+]]> 	
+	</content>
+	<tabTrigger>help</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

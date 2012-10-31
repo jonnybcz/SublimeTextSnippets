@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+<![CDATA[
+JAK.mel(${10:tagName});
+]]> 	
+	</content>
+    	<tabTrigger>me</tabTrigger>
+    	<scope>source.js</scope>
+</snippet>

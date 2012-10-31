@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+<![CDATA[
+JAK.gel(${1:id});
+]]> 	
+	</content>
+    	<tabTrigger>ge</tabTrigger>
+    	<scope>source.js</scope>
+</snippet>
