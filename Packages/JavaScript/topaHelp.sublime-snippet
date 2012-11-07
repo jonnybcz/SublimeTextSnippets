@@ -9,15 +9,16 @@ s 	...switch
 
 JAK
 cm 	...classMaker
-ev 	...Event(elm, type, obj, func, capture)
-ge	 ...gel(id, doc)
-me 	...mel(tagName, properties, styles, doc)
-ce 	...cel(tagName, className, id, doc)
+ev 	...Event(elm, type, obj, func, capture);
+ge	...gel(id, doc);
+qu	...query(query);
+me 	...mel(tagName, properties, styles, doc);
+ce 	...cel(tagName, className, id, doc);
 cd 	...JAK.Events.cancelDef();
+st 	...JAK.Events.stopEvent();
 ==============================
 ]]> 	
 	</content>
 	<tabTrigger>help</tabTrigger>
 	<scope>source.js</scope>
-	<description>help by topa</description>
 </snippet>

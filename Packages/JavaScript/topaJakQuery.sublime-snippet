@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+<![CDATA[
+JAK.query(${1:query});
+]]> 	
+	</content>
+    	<tabTrigger>qu</tabTrigger>
+    	<scope>source.js</scope>
+</snippet>
