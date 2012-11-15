@@ -3,6 +3,7 @@
     	<![CDATA[
 /**
 * author: ${1:topa}
+* @class Třída ${6:MyClass}
 */
 ${6:MyClass} = JAK.ClassMaker.makeClass({
 	NAME: "${6:MyClass}",
@@ -11,7 +12,7 @@ ${6:MyClass} = JAK.ClassMaker.makeClass({
 
 ${6:MyClass}.prototype.\$constructor = function(){
 	${10: }
-};
+}
 
 
 ]]>
