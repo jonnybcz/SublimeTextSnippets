@@ -8,7 +8,7 @@ copy Packages
 
 OS X:
 
-~/Library/Application Support/Sublime Text 2/
+cp -R Packages ~/Library/Application\ Support/Sublime\ Text\ 2/
 
 Usage 
 -------

@@ -2,7 +2,8 @@
 	<content>
 <![CDATA[
 ===================version 1.0
-f 	...for
+f 	...for Array
+ff 	...for Object
 c 	...console.log();
 a 	...alert();
 s 	...switch
