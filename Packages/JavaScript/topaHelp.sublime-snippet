@@ -18,7 +18,7 @@ ce 	...cel(tagName, className, id, doc);
 cd 	...JAK.Events.cancelDef();
 st 	...JAK.Events.stopEvent();
 ==============================
-]]> 	
+]]>
 	</content>
 	<tabTrigger>help</tabTrigger>
 	<scope>source.js</scope>

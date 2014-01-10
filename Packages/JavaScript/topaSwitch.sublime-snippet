@@ -2,14 +2,14 @@
 	<content>
 <![CDATA[
 switch (${10:expression}) {
-   case ${20:label1}:
+	case ${20:label1}:
 
-      break;
-   default:
+		break;
+	default:
 
-      break;
+		break;
 }
-]]> 	
+]]>
 	</content>
     	<tabTrigger>s</tabTrigger>
     	<scope>source.js</scope>
